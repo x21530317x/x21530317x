@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 陳建樺</h1>
-<h3 align="center">目前正在學習網頁相關程式</h3>
+<h3 align="center"></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
